@@ -1,0 +1,12 @@
+{
+  "name": "estudando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "destructuring": "node destructuring.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Costa",
+  "license": "ISC"
+}
